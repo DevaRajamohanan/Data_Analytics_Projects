@@ -1,1 +1,26 @@
-# Data_Analytics_Projects
+<h1>Hi, I'm Deva! <br/><a href="https://github.com/joshmadakor1">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Financial Analyst</a></h1>
+
+<p>Throughout my undergraduate studies at Hult International Business School, majoring in Business Analytics and Financial Analytics, I worked on a diverse range of projects. These include both individual and team-based initiatives, showcasing analytical skills, collaboration, and innovative problem-solving.</p>
+
+<h2>👨‍💻 Business Analyst Projects:</h2>
+
+<b>Business Intelligence & Insights </b>
+<ul>
+  <li>Utilized k-means clustering and PCA to uncover patterns, generate visualizations, and deliver actionable insights.</li>
+  <li>Partnered with teams to implement AI-driven solutions, reducing manual tasks by 80%.</li>
+  <li>Enhanced data analysis accuracy by 15% through advanced techniques in data science and innovative problem-solving.</li>
+
+  - [Unsupervised Machine Learning](file:///Users/devarajamohanan/Library/Containers/net.whatsapp.WhatsApp/Data/tmp/documents/7593823C-E833-4F92-876B-FAD7B440E569/scout_house_project.html)
+
+    
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
